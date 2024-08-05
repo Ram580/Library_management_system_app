@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Test Book",
+        "author": "Test Author",
+        "isbn": "1234567890",
+        "available": true
+    },
+    {
+        "title": "The Song of Ice and Fire",
+        "author": "George RR Martin",
+        "isbn": "1",
+        "available": false
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn": "3",
+        "available": true
+    }
+]
